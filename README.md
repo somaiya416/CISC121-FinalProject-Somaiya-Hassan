@@ -9,6 +9,7 @@ This project simulates ranking scholarship applicants by computing a final evalu
 
 ---
 
+
 ## Chosen Algorithm
 **Merge Sort**
 
